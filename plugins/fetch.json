@@ -1,0 +1,10 @@
+{
+  "cordova-plugin-wkwebview-file-xhr": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-wkwebview-file-xhr"
+    },
+    "is_top_level": true,
+    "variables": {}
+  }
+}

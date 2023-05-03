@@ -1,0 +1,15 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-wkwebview-file-xhr": {
+      "PACKAGE_NAME": "com.babino.MyLists"
+    }
+  },
+  "dependent_plugins": {}
+}
